@@ -1,7 +1,4 @@
-body{
-	width: 100%;
-	background: #4FA28D;
-	font-family: sans-serif;
-	font-weight: 300;
-	font-size: 17px;
-}
+// IMPORTA MIXINS.
+@import "inc/mixins.scss";
+// RESET CSS.
+@import "inc/html5reset.scss";
